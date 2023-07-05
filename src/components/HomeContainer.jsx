@@ -31,7 +31,7 @@ const HomeContainer = () => {
         </p>
 
         <p className="text-base text-textColor text-center md:text-left lg:w-[80%]">
-          SomeInfo
+          The fastest delivery in your city
         </p>
 
         <button
